@@ -21,4 +21,4 @@ https://icanhazdadjoke.com/
 
 # Desktop view
 
-![Desktopview](preview.png) 
+![Desktopview](preview.png.jpg) 
