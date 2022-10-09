@@ -22,3 +22,7 @@ https://icanhazdadjoke.com/
 # Desktop view
 
 ![Desktopview](preview.png.jpg) 
+
+# Mobile view
+
+![Desktopview](mobile-preview.png.jpg) 
