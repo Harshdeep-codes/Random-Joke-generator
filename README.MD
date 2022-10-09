@@ -1,4 +1,4 @@
-# Jokes Generator
+# Random Jokes Generator
 
 This is Joke Generator project  using API. this will Generate a joke each time botton click.
 
@@ -21,4 +21,4 @@ https://icanhazdadjoke.com/
 
 # Desktop view
 
-![Desktopview](/Image/jokeapi.gif) 
+![Desktopview]() 
