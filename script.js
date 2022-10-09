@@ -1,5 +1,5 @@
 
-// selcting elments
+// selcting elements
 const button = document.querySelector(".container button");
 const jokeDiv = document.querySelector(".container .joke ");
 
