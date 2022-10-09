@@ -25,4 +25,4 @@ https://icanhazdadjoke.com/
 
 # Mobile view
 
-![Desktopview](mobile-preview.png.jpg) 
+![Desktopview](mobile-preview.jpg) 
